@@ -12,6 +12,7 @@ Shopify API bindings for Node.js.
 $ npm install --save shopify-api-node
 ```
 
+
 ## API
 
 This module exports a constructor function which takes an options object.
