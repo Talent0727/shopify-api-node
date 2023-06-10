@@ -17,7 +17,6 @@ $ npm install --save shopify-api-node
 This module exports a constructor function which takes an options object.
 
 ### `Shopify(options)`
-
 Creates a new `Shopify` instance.
 
 #### Arguments
